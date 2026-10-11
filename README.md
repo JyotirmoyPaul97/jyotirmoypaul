@@ -3,6 +3,7 @@
 A responsive crop-health decision-support demo with a React/Vite dashboard and a FastAPI service. The interface separates image-model evidence from environmental suitability and confirmed disease. **Demo mode has no trained model, database, or configured weather provider by default; it does not make live crop or weather claims.**
 
 [Your Link Here](https://jyotirmoypaul-e21w.vercel.app/)
+[Link To The Second Prototype](https://crop-caretaker-ai-06.lovable.app)
 
 ## Project structure
 
